@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ace-agility-405304",
+  "private_key_id": "22b9da17dd5a2a004624aff3db3b003f73dbe98e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMZqfQw0/tzP5t\nmjj25FvzAXmLF4D0YTf25Qc4lLQN2ns0s3rN1UWlmP+7O9ErvJxQ9NKaOfu35KFY\n0SASHboB4GGIb/6OnDSsg1uLYKY8t5WRSswoVQJCX+ax60xE7b6QEU26xmzxK+3c\n99jNRYeScO+d8tKzws3EcLB6iJeKnu1edq31kQQro7UNVBcg2dSrQDJT9yRatlbC\nMUR8lUVWQfeK7ZwAxJT6CzbJxv9aIYUgWIJF+Vxyd4F3cj5T54V+X040gbG040Le\nIj4g1SibNWil+OEy76Y0j2nztNnqANKn/SLjHYYnwhyO7gcTdchyAev5QXvbMSW9\nwmOzfs4FAgMBAAECggEAHxqy/O34LC+pAjETg6bts/VUrvrjB8Dt/BWbNu7CwPrx\nJqjIgQdJqbkulpVW7sCXRNwoOCC2YnQVRq710u2hAr9p/CcLlx6GEN39DvC3g2YM\njaarehfzKy9B1ZLST8b328TpmoJRKlDYHocOEdPgiBHbE/vyr/5tRaLNhifyorPk\nzRXCIHyBBMdaYtHk7c4WLkVc3n0JTwN4B0mSZyrI2VCBYnerkAtxLvdw+RecRnlJ\nNIovqJYMipPXlBXDi82ja5T+0GvlfOC8OTj7EXPDQCPWWxm7SxJO/s+603CsnKwN\ne6nero1Xh/7ZgP/HHUhxVyU5wYNKAUUpJpgS7qAj4QKBgQDCZMPJUZsJ1dP4OdXV\nVtQgLsoLyrNsJycTHQZhD1oinZi4fvtM9IE8y65j+QUlIa8zPo4Lsk3RH7wkMZiX\nHalTDipAC7r9/NcX6YHskGBVaRCq4SCiuJMsHyhKtDj66B3N8C6FIcGTp5vApixE\nceDXV3l1FfujhPd6dDCG7jl+GQKBgQC45XKDw/y42D845mPLseI6xAU/+10B65Ji\nZln9NZk4ViT+Ud/UcITX9Bhges7pS1+eLdTBvxFZe+DdcQ90gnsTnRLTER5530Hf\nj8RoBRhwLQdXAqTAYHwAeR30k0xDfIYTulcDBsa1PacQdtlHimdICXkOQ4IDoZ34\ncxtiHA30zQKBgQCvWc/WUNuGgrDjj+AYwms04J/3BRDWNXck4aC4eu22nex+OGUd\nZM0TdzPHEIEYnor4savWVy+kvXisOWTIo8PynKt1/F7f72xjMIq3RwDu6ohTbCJR\nRifTvANPZ8SiaDFCbC66ftmsBJwVqo/x6buE5G42NO858J6AgkCn5kpMOQKBgHAf\n/Kz5akWyJczcskIxko6ulrxxM7rZX8E6bnIGUe9/FhoADqumvHi1dx7y+o0xfz/O\nbUo9E0lfvUKssIGoKvj+9Q54QDIJ+MmZRrMJ/ALy25Ohb8WV/TzQNiE+Pi5i0nAe\nPWwBbPk19R0f5a3jubROwlGrEKohFUo4i6+YccI1AoGAYGSRhSV4frxZCDMBmhot\nomPU5xQ0l/N/BI0EoQ9vcpQXqqbBTZxKQVBOIzRX9E4ky/a5gDLQ5DnJK8NaIx9G\nB4d2yIxqUN1s9ofDllj2ppMERSxqGigvR9QTYaY6hk0CepOMctXXRaYGzo3DzQ7G\nmGovx6pA+vJko3mvYFeg3c4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "monday@ace-agility-405304.iam.gserviceaccount.com",
+  "client_id": "109488367706648481403",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monday%40ace-agility-405304.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
